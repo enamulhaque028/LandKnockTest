@@ -1,4 +1,8 @@
-body {
+.div1 {
+    width: 500px;
+    height: 500px;
+    border: 1px solid white;
+    box-sizing: border-box;
     background-color: black;
 }
 
